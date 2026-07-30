@@ -1,4 +1,4 @@
-# codex-glm-desktop-bridge
+# claude-cli-bridge
 
 把本机的 **Claude Code CLI**（默认走 GLM 模型后端）封装成一个 **MCP Server**，
 供 Codex 当作子智能体调用。参考 [Codex-WorkBuddy-Desktop-Bridge](https://github.com/gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge)
