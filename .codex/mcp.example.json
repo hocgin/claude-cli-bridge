@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "glm_claude": {
+      "command": "/Users/hocgin/Projects/claude-cli-bridge/.venv/bin/python",
+      "args": ["-m", "claude_cli_bridge"],
+      "env": {
+        "GLM_CLAUDE_BIN": "claude",
+        "GLM_CLAUDE_DEFAULT_MODEL": "glm-5.2"
+      }
+    }
+  }
+}
